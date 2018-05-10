@@ -1,3 +1,9 @@
+# Finder turds
+.DS_Store
+
+# Emacs turds
+**/*.*~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
